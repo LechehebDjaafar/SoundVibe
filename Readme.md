@@ -18,7 +18,7 @@ Here are some screenshots of the website:
 ![Homepage](assets\img\img1.png)
 *Homepage showcasing featured SoundVibes.*
 
-![Product Page](assets\img\2.png)
+![Product Page](assets\img\img2.png)
 *Product page with details and purchase options.*
 
 ![Shopping Cart](assets\img\img3.png)
