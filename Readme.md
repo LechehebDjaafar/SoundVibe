@@ -15,13 +15,13 @@ Welcome to **SoundVibe Store**, a sleek and modern e-commerce website for sellin
 
 Here are some screenshots of the website:
 
-![Homepage](assets\img\img1.png)
+![Homepage](assets/img/img1.png)
 *Homepage showcasing featured SoundVibes.*
 
-![Product Page](assets\img\img2.png)
+![Product Page](assets/img/img2.png)
 *Product page with details and purchase options.*
 
-![Shopping Cart](assets\img\img3.png)
+![Shopping Cart](assets/img/img3.png)
 *Shopping cart interface with selected items.*
 
 ## 🚀 Technologies Used
