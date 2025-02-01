@@ -49,7 +49,7 @@ Here are some screenshots of the website:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SoundVibe-store
+   cd SoundVibe
    ```
 3. Open `index.html` in your browser.
 
