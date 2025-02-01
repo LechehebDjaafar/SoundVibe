@@ -62,7 +62,6 @@ Here are some screenshots of the website:
 ## 📧 Contact
 
 For any inquiries or contributions, feel free to reach out:
-📩 Email: your-email@example.com  
 📷 linkdin: [@LechehebDjaafar](https://www.linkedin.com/in/lecheheb-djaafar-226594348/)
 
 ---
